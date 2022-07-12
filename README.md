@@ -1,4 +1,4 @@
 # My DA Portfolio
-I'm Dmitry Stogov, DA student.
+I'm Dmitry Stogov, Data Analyst.
 
-Here are my projects I've done while studying Data Analysis in Yandex.Practicum School.
+Here are some of my projects I've done while ago.
