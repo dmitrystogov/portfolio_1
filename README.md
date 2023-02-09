@@ -81,7 +81,7 @@
 
 *Стек: python, pandas, scikit-learn, matplotlib, seaborn*
 
-### <a href='https://github.com/dmitrystogov/portfolio_1/tree/main/14_marketing_campaign'>Исследования рынка общепита для принятия решения об открытии нового заведения<a>
+### <a href='https://github.com/dmitrystogov/portfolio_1/tree/main/14_marketing_campaign'>Поиск зон роста для маркетинговых кампаний<a>
 
 Я проанализировал данные по маркетинговым кампаниям, нашел зоны роста и сформировал пул  обоснованных гипотез, реализация которых приведет к росту дохода на 10% при сохранении текущего бюджета. (Маркетинговая аналитика)
 
